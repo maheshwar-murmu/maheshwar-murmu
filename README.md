@@ -4,7 +4,7 @@
 
 > **"A curious mind exploring the world of binaries."**
 
-I am an **aspirant data scientist** passionate about discovering insights from data and leveraging programming to solve real-world problems. I believe in continuous learning and enjoy diving into the technical depths of computing.
+I am an **aspirant data scientist** passionate about discovering insights from data and leveraging programming to solve real-world problems. I believe in continuous learning and enjoy diving into the technical aspects of computing.
 
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
@@ -13,23 +13,23 @@ I am an **aspirant data scientist** passionate about discovering insights from d
 ## 🛠️ Skills
 
 - **Programming Languages:**
-  - Python 🐍 ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png)
-  - SQL 🗃️ ![SQL Icon](https://img.icons8.com/color/48/000000/database.png)
-  - C 💻 ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
+  - **Python** 🐍 ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png)
+  - **SQL** 🗃️ ![SQL Icon](https://img.icons8.com/color/48/000000/database.png)
+  - **C** 💻 ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
 
 - **Core Strengths:**
-  - Data analysis and visualization 📊 ![Data Chart](https://img.icons8.com/color/48/000000/combo-chart.png)
-  - Problem-solving and logical thinking 🤔
-  - Clean and efficient coding ✨
+  - Data analysis 📊
+  - Problem-solving 🤔
+  - Clean coding ✨
 
 ---
 
 ## 📈 Journey So Far
 
-As a technical beginner, my journey began with understanding the basics of binaries and gradually building expertise in:
-- Writing and debugging efficient Python scripts.
-- Managing and querying databases with SQL.
-- Exploring the world of algorithms and problem-solving with C.
+My journey started with understanding the basics of binaries, and now I'm building skills in:
+- Writing Python scripts.
+- Working with SQL databases.
+- Learning algorithms and problem-solving with C.
 
 ![Journey GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
@@ -37,8 +37,8 @@ As a technical beginner, my journey began with understanding the basics of binar
 
 ## 🌱 Currently Learning
 
-- Advanced Python libraries for data science (NumPy, Pandas, Matplotlib)
-- Machine Learning concepts and frameworks (Scikit-learn, TensorFlow)
+- Advanced Python libraries (NumPy, Pandas)
+- Machine Learning basics
 - Cloud platforms for data analysis
 
 ![Learning GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
@@ -46,6 +46,8 @@ As a technical beginner, my journey began with understanding the basics of binar
 ---
 
 ## 🌐 Connect With Me
+
+Feel free to reach out for collaboration, questions, or just to chat about data science!
 
 - **LinkedIn:** [linkedin.com/in/maheshwar-murmu-5234b22b8](https://linkedin.com/in/maheshwar-murmu-5234b22b8)
 - **GitHub:** [https://github.com/maheshwar-murmu](https://github.com/maheshwar-murmu)
@@ -65,10 +67,15 @@ As a technical beginner, my journey began with understanding the basics of binar
 
 ## 🔥 Fun Fact
 
-When I am not coding, you can find me exploring nature 🌳, reading tech blogs 📚, or solving puzzles 🧩.
+When I'm not coding, I enjoy exploring nature 🌳, reading tech blogs 📚, or solving puzzles 🧩.
 
 ![Fun Fact GIF](https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif)
 
 ---
 
 ### 💡 Motto: *"Keep learning, keep growing."*
+
+---
+
+#### 📬 Feel free to reach out anytime!
+
