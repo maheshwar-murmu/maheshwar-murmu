@@ -1,29 +1,74 @@
-<h1 align="center">Hi 👋, I'm Maheshwar Murmu</h1>
-<h3 align="center">A technical beginner who has stepped up into the binaries.</h3>
+# 👋 Hello, I Am Maheshwar Murmu
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshwar-murmu&label=Profile%20views&color=0e75b6&style=flat" alt="maheshwar-murmu" /> </p>
+## 🌟 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshwar-murmu" alt="maheshwar-murmu" /></a> </p>
+> **"A curious mind exploring the world of binaries."**
 
-- 🏫 I’m currently studying in **Adamas University**
+I am an **aspirant data scientist** passionate about discovering insights from data and leveraging programming to solve real-world problems. I believe in continuous learning and enjoy diving into the technical depths of computing.
 
-- 🌱 I’m currently learning **web development, data science**
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-- 📫 How to reach me **maheshwar2005murmu@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkdin.com/in/maheshwar-murmu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin.com/in/maheshwar-murmu" height="30" width="40" /></a>
-</p>
+## 🛠️ Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **Programming Languages:**
+  - Python 🐍 ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png)
+  - SQL 🗃️ ![SQL Icon](https://img.icons8.com/color/48/000000/database.png)
+  - C 💻 ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mahi_bhai_maheshwar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahi_bhai_maheshwar" /></a></p><br><br>
+- **Core Strengths:**
+  - Data analysis and visualization 📊 ![Data Chart](https://img.icons8.com/color/48/000000/combo-chart.png)
+  - Problem-solving and logical thinking 🤔
+  - Clean and efficient coding ✨
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshwar-murmu&show_icons=true&locale=en&layout=compact" alt="maheshwar-murmu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&locale=en" alt="maheshwar-murmu" /></p>
+## 📈 Journey So Far
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshwar-murmu&" alt="maheshwar-murmu" /></p>
+As a technical beginner, my journey began with understanding the basics of binaries and gradually building expertise in:
+- Writing and debugging efficient Python scripts.
+- Managing and querying databases with SQL.
+- Exploring the world of algorithms and problem-solving with C.
+
+![Journey GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python libraries for data science (NumPy, Pandas, Matplotlib)
+- Machine Learning concepts and frameworks (Scikit-learn, TensorFlow)
+- Cloud platforms for data analysis
+
+![Learning GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
+---
+
+## 🌐 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/maheshwar-murmu-5234b22b8](https://linkedin.com/in/maheshwar-murmu-5234b22b8)
+- **GitHub:** [https://github.com/maheshwar-murmu](https://github.com/maheshwar-murmu)
+- **Email:** [maheshwar2005murmu@gmail.com](mailto:maheshwar2005murmu@gmail.com)
+
+![Contact Icon](https://img.icons8.com/fluency/48/000000/contacts.png)
+
+---
+
+## 📊 GitHub Stats
+
+![Maheshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&theme=radical)
+
+---
+
+## 🔥 Fun Fact
+
+When I am not coding, you can find me exploring nature 🌳, reading tech blogs 📚, or solving puzzles 🧩.
+
+![Fun Fact GIF](https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif)
+
+---
+
+### 💡 Motto: *"Keep learning, keep growing."*
