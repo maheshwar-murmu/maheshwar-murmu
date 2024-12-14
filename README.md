@@ -1,3 +1,5 @@
+![GitHub Banner](https://github.com/maheshwar-murmu/Assets-for-cotent/blob/0da34d5cfa6346da22379c1ce33832405d019856/imresizer-1734093993901.jpg)
+
 # 👋 Hello, I Am Maheshwar Murmu
 
 ## 🌟 About Me
@@ -6,16 +8,16 @@
 
 I am an **aspirant data scientist** passionate about discovering insights from data and leveraging programming to solve real-world problems. I believe in continuous learning and enjoy diving into the technical aspects of computing.
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400">
 
 ---
 
 ## 🛠️ Skills
 
 - **Programming Languages:**
-  - **Python** 🐍 ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png)
-  - **SQL** 🗃️ ![SQL Icon](https://img.icons8.com/color/48/000000/database.png)
-  - **C** 💻 ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)
+  - **Python** 🐍 <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python Icon" width="24">
+  - **SQL** 💃 <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL Icon" width="24">
+  - **C** 💻 <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24">
 
 - **Core Strengths:**
   - Data analysis 📊
@@ -24,14 +26,14 @@ I am an **aspirant data scientist** passionate about discovering insights from d
 
 ---
 
-## 📈 Journey So Far
+## 📊 Journey So Far
 
 My journey started with understanding the basics of binaries, and now I'm building skills in:
 - Writing Python scripts.
 - Working with SQL databases.
 - Learning algorithms and problem-solving with C.
 
-![Journey GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Journey GIF" width="400">
 
 ---
 
@@ -41,7 +43,7 @@ My journey started with understanding the basics of binaries, and now I'm buildi
 - Machine Learning basics
 - Cloud platforms for data analysis
 
-![Learning GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Learning GIF" width="400">
 
 ---
 
@@ -53,23 +55,23 @@ Feel free to reach out for collaboration, questions, or just to chat about data 
 - **GitHub:** [https://github.com/maheshwar-murmu](https://github.com/maheshwar-murmu)
 - **Email:** [maheshwar2005murmu@gmail.com](mailto:maheshwar2005murmu@gmail.com)
 
-![Contact Icon](https://img.icons8.com/fluency/48/000000/contacts.png)
+<img src="https://img.icons8.com/fluency/48/000000/contacts.png" alt="Contact Icon" width="24">
 
 ---
 
 ## 📊 GitHub Stats
 
-![Maheshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&theme=radical" alt="Maheshwar's GitHub Stats" width="400">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&theme=radical" alt="Top Languages" width="400">
 
 ---
 
 ## 🔥 Fun Fact
 
-When I'm not coding, I enjoy exploring nature 🌳, reading tech blogs 📚, or solving puzzles 🧩.
+When I'm not coding, I enjoy exploring nature 🌳, reading tech blogs 📚, or solving puzzles 🧙.
 
-![Fun Fact GIF](https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif)
+<img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" alt="Fun Fact GIF" width="400">
 
 ---
 
@@ -77,5 +79,6 @@ When I'm not coding, I enjoy exploring nature 🌳, reading tech blogs 📚, or 
 
 ---
 
-#### 📬 Feel free to reach out anytime!
+#### 📨 Feel free to reach out anytime!
+
 
