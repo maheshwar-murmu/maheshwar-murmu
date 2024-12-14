@@ -6,7 +6,7 @@
 
 > **"A curious mind exploring the world of binaries."**
 
-I am an **aspirant data scientist** passionate about discovering insights from data and leveraging programming to solve real-world problems. I believe in continuous learning and enjoy diving into the technical aspects of computing.
+I am an **Aspiring Data Scientist | Tech Learner** passionate about discovering insights from data and leveraging programming to solve real-world problems. I believe in continuous learning and enjoy diving into the technical aspects of computing.
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400">
 
