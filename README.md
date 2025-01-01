@@ -64,7 +64,7 @@ Feel free to reach out for collaboration, questions, or just to chat about data 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&hide_title=true&count_private=true&theme=dracula&hide_border=true" alt="Maheshwar's GitHub Stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&langs_count=5&theme=dracula&hide_border=true" alt="Top Languages" width="400">
-  <img src="https://streak-stats.demolab.com?user=maheshwar-murmu&theme=dracula&hide_border=true&border_radius=5" alt="Streak Stats" width="400">
+  <img src="https://streak-stats.demolab.com/?user=maheshwar-murmu&theme=dracula&hide_border=true&border_radius=5" alt="Streak Stats" width="400">
 </div>
 
 ---
@@ -82,5 +82,3 @@ When I'm not coding, I enjoy exploring nature 🌳, reading tech blogs 📚, or 
 ---
 
 #### 📨 Feel free to reach out anytime!
-
-
