@@ -51,20 +51,19 @@ My journey started with understanding the basics of binaries, and now I'm buildi
 
 Feel free to reach out for collaboration, questions, or just to chat about data science!
 
-- **LinkedIn:** [linkedin.com/in/maheshwar-murmu-5234b22b8](https://linkedin.com/in/maheshwar-murmu-5234b22b8)
-- **GitHub:** [https://github.com/maheshwar-murmu](https://github.com/maheshwar-murmu)
-- **Email:** [maheshwar2005murmu@gmail.com](mailto:maheshwar2005murmu@gmail.com)
-
-<img src="https://img.icons8.com/fluency/48/000000/contacts.png" alt="Contact Icon" width="24">
+- **LinkedIn:** [![LinkedIn Icon](https://img.icons8.com/color/48/000000/linkedin-circled--v1.png)](https://linkedin.com/in/maheshwar-murmu-5234b22b8)
+- **GitHub:** [![GitHub Icon](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/maheshwar-murmu)
+- **Gmail:** [![Gmail Icon](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:maheshwar2005murmu@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&hide_title=true&count_private=true&theme=dracula&hide_border=true" alt="Maheshwar's GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&langs_count=5&theme=dracula&hide_border=true" alt="Top Languages" width="400">
-  <img src="https://streak-stats.demolab.com/?user=maheshwar-murmu&theme=dracula&hide_border=true&border_radius=5" alt="Streak Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Maheshwar's GitHub Stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" width="400">
+  <img src="https://streak-stats.demolab.com/?user=maheshwar-murmu&theme=dark&hide_border=true" alt="Streak Stats" width="400">
+
 </div>
 
 ---
@@ -82,3 +81,5 @@ When I'm not coding, I enjoy exploring nature 🌳, reading tech blogs 📚, or 
 ---
 
 #### 📨 Feel free to reach out anytime!
+
+
