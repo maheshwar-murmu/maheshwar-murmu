@@ -16,6 +16,8 @@ I’m an **Aspiring Data Scientist** with a strong passion for deriving insights
   - **Python** ![Python Icon](https://img.icons8.com/color/48/000000/python--v1.png)  
   - **SQL** ![SQL Icon](https://img.icons8.com/color/48/000000/database.png)  
   - **C** ![C Icon](https://img.icons8.com/color/48/000000/c-programming.png)  
+  - **HTML** ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)  
+  - **CSS** ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)  
 
 - **Core Strengths:**  
   - Data Analysis  
@@ -30,6 +32,7 @@ From mastering binary fundamentals, I’ve progressed to:
 - Developing efficient Python scripts.  
 - Managing SQL databases with precision.  
 - Implementing algorithms in C.  
+- Building responsive web pages with HTML & CSS.  
 
 ---
 
