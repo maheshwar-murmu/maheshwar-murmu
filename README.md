@@ -51,19 +51,21 @@ I’m open to collaboration, inquiries, or discussions about data science:
 
 ---
 
-## GitHub Statistics
+## GitHub Statistics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=stars,issues" alt="GitHub Activity" width="400">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=html,css" alt="Top Programming Languages" width="400">  
-  <img src="https://streak-stats.demolab.com/?user=maheshwar-murmu&theme=dark&hide_border=true&date_format=M%20j[,Y]" alt="Coding Streak" width="400">  
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=maheshwar-murmu&theme=radical&hide_border=true&date_format=M%20j[,Y])  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwar-murmu&layout=compact&langs_count=6&theme=radical&hide_border=true)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshwar-murmu&show_icons=true&count_private=true&theme=radical&hide_border=true)  
+
 </div>
 
 ---
 
 ## Fun Fact
 
-Beyond coding, I enjoy exploring nature, playing guitar and solving life puzzles.
+Beyond coding, I enjoy exploring nature, playing guitar, and solving life puzzles.
 
 ---
 
