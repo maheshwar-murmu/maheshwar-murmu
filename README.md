@@ -63,7 +63,7 @@ I’m open to collaboration, inquiries, or discussions about data science:
 
 ## Fun Fact
 
-Beyond coding, I enjoy exploring nature, reading tech blogs, and solving puzzles.  
+Beyond coding, I enjoy exploring nature, playing guitar and solving life puzzles.
 
 ---
 
